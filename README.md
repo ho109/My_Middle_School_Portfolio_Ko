@@ -67,3 +67,6 @@ Python, HTML, JAVA, AI 등의 언어나 코딩 기술을 배우고 이를 기반
   곧 학교에서 이 프로그램으로 교내의 분실물 관리를 적용할 것으로 보임 (4/14)
 
   ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ho109&layout=compact&theme=default)
+![Hyunggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho109&show_icons=true&theme=default&rank_icon=percentile)
