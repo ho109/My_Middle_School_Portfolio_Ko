@@ -1,5 +1,5 @@
 # my_portfolio
-this is my portfolio/ Eng and Ko
+this is my portfolio/ Ko
 ### About Me
 
 > 나를 소개하는 간단한 페이지
