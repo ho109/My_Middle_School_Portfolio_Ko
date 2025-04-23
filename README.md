@@ -70,4 +70,5 @@ Python, HTML, JAVA, AI 등의 언어나 코딩 기술을 배우고 이를 기반
 
 - **링크/스크린샷**:
 
-![image.png](attachment:199aba0c-97f9-4412-a4a0-fce0785a9200:image.png)
+
+![Hyunggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-ho109&show_icons=true&theme=default&rank_icon=percentile)
