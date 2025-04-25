@@ -1,5 +1,5 @@
 # My_portfolio (2025)
-this is my portfolio/ Ko
+this is my portfolio/ Ko.ver
 ### About Me
 
 > 나를 소개하는 간단한 페이지
