@@ -73,9 +73,10 @@ IT와 인공지능에 깊은 관심을 가지고 있으며, 학교생활에서 �
 **사용 기술**:
 - **호스팅**: Firebase Hosting  
 - **프론트엔드**: HTML, CSS (Vive), JavaScript, Material Design 기반 UI, AI (Vive)  
-- **백엔드**: Firebase 실시간 데이터베이스 또는 Firestore, JavaScript, Vive  
+- **백엔드**: Firebase 실시간 데이터베이스 또는 Firestore, JavaScript, Vive
 
----
+
+  
 
 ### 📖 프로젝트 설명
 
