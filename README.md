@@ -84,7 +84,7 @@ IT와 인공지능에 관심이 많고, 학교에서 겪는 문제들을 직접 
 
 **링크**:  
 - 🔗 [엔트리 프로젝트](https://playentry.org/project/671593d4c40ad113746d7067)  
-- 🎥 [발표 자료 (Canva)](https://www.canva.com/design/DAGUKJn3pSI/M9Ogjcmxi96MZn3XSw-Wcw/edit)  <-- 꼭 봐보시길
+- 🎥 [발표 자료 (Canva)](https://www.canva.com/design/DAGUKJn3pSI/M9Ogjcmxi96MZn3XSw-Wcw/edit)  <-- 여기 설명이 더 자세히 있습니다.
 - 📊 [Kaggle 이미지 데이터셋](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
 
 ---
