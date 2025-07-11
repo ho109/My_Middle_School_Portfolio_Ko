@@ -24,7 +24,7 @@ IT와 인공지능에 관심이 많고, 학교에서 겪는 문제들을 직접 
 - 작성 기간: 중2 ~ 중3 (2024~2025)  
 - 소속: 내곡중학교  
 - 관심 분야: IT, 인공지능, 앱 개발, 문제 해결  
-- 사용 기술: `Python`, `HTML`, `Java`, `Entry`, `AI (Vive)`
+- 사용 기술: `Python`, `HTML`, `Java Script`, `Entry`, `AI (Vive)`
 
 ---
 
